@@ -1,0 +1,90 @@
+[
+    {
+        "name": "Amla",
+        "image": "./static/images/amla.jpeg"
+    },
+    {
+        "name": "Tulsi",
+        "image": "./static/images/tulsi.jpeg"
+    },
+    {
+        "name": "Moringa",
+        "image": "./static/images/moringa.jpeg"
+    },
+    {
+        "name": "Ghee",
+        "image": "./static/images/ghee.jpeg"
+    },
+    {
+        "name": "Black pepper",
+        "image": "./static/images/pepper.jpeg"
+    },
+    {
+        "name": "Honey",
+        "image": "./static/images/honey.jpeg"
+    },
+    {
+        "name": "Jaggery",
+        "image": "./static/images/jaggery.jpeg"
+    },
+    {
+        "name": "Wood apple",
+        "image": "./static/images/wood_apple.jpeg"
+    },
+    {
+        "name": "Bael",
+        "image": "./static/images/bael.jpeg"
+    },
+    {
+        "name": "Ginger",
+        "image": "./static/images/ginger.jpeg"
+    },
+    {
+        "name": "Turmeric",
+        "image": "./static/images/turmeric.jpeg"
+    },
+    {
+        "name": "Cinnamon",
+        "image": "./static/images/cinnamon.jpeg"
+    },
+    {
+        "name": "Quick lime",
+        "image": "./static/images/quick lime.jpeg"
+    },
+    {
+        "name": "Pomegranate",
+        "image": "./static/images/pomegranate.jpeg"
+    },
+    {
+        "name": "Night jasmine",
+        "image": "./static/images/night jasmine.jpeg"
+    },
+    {
+        "name": "Raisins",
+        "image": "./static/images/raisins.jpeg"
+    },
+    {
+        "name": "Cow urine",
+        "image": "./static/images/cow urine.jpeg"
+    },
+    {
+        "name": "Radish",
+        "image": "./static/images/radish.jpeg"
+    },
+    {
+        "name": "Neem",
+        "image": "./static/images/neem.jpeg"
+    },
+    {
+        "name": "Heart-leaved moonseed/Giloy",
+        "image": "./static/images/giloy.jpeg"
+    },
+    {
+        "name": "Carom seeds",
+        "image": "./static/images/carom seeds.jpeg"
+    },
+    {
+        "name": "Ajwain",
+        "image": "./static/images/carom seeds.jpeg"
+    }
+]
